@@ -1,7 +1,3 @@
-// Use case:
-// Launch App > Login > Click on "+" button(Sell button) 
-// > List an item under 'Everything Else > Others' category 
-// > Go to respective category > verify listing appears with filter set to 'recent'.
 import Helper from '../../helper'
 import MainPage from '../../pageobjects/main_page'
 import LoginPage from '../../pageobjects/login_page'
