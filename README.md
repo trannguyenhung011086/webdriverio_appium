@@ -1,5 +1,3 @@
-This is for learning to use Appium with webdriver.io to automate on Android emulator.
-
 **Use case 1**
 Launch App > Sign up > Click on "+" button(Sell button) > List an item under 'Everything Else > Others' category > Go to profile page to see message not able to list items due to unverified account
 
